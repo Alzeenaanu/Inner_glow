@@ -58,7 +58,15 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+flutter sdk
+dart 
+visual studio
+android studio
+flutter development tools
+Git
+firebase core
+firebase authendication
+
 
 # Run
 [commands]

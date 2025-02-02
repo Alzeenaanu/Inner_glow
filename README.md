@@ -33,7 +33,22 @@ For Software:
 - [Frameworks used]
 - Flutter using dart
 - [Libraries used]
-- [Tools used]
+- flutter sdk
+- firebase core
+- firebase auth
+- firebase authedication
+- flutter localization
+- cloud_firestore
+- calender
+- 
+[Tools used]
+- Git/GitHub
+- vs code
+- android studio
+- firebase
+- flutter sdk
+- flutter dart
+- firebase console
 
 For Hardware:
 - [List main components]

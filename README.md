@@ -143,8 +143,8 @@ To log out of the app, navigate to your profile and tap the Logout button.
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
+https://drive.google.com/drive/folders/11c_gd5DnwCzkAzTCjBUXeuczvmvtfZmu
 
-For Hardware:
 
 # Schematic & Circuit
 ![Circuit](Add your circuit diagram here)

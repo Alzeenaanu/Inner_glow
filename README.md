@@ -11,7 +11,7 @@
 - Member 3: S Riya lakshmi - Ahalia School of Engineering and Technology
 
 ### Hosted Project Link
-
+https://github.com/Alzeenaanu/Inner_glow
 
 ### Project Description
 Mental health issues among women are often overlooked, leading to inadequate support. The *Special Women Mental Health Support System* provides a platform for users to track emotions, manage stress, monitor menstrual cycles, and receive mental health guidance through journaling, mood logging, meditation suggestions, and a chatbot.
@@ -84,7 +84,7 @@ For Hardware:
 *Explain the build steps*
 
 ![Final](Add photo of final product here)
-*Explain the final build*
+https://drive.google.com/drive/folders/10btp74ppizXbm3DX-E91c-1IvHsdnNfi
 
 ### Project Demo
 # Video

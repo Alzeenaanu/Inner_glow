@@ -72,7 +72,63 @@ firebase authendication
 [commands]
 
 ### Project Documentation
-For Software:
+1. Title Page
+Project Title: Inner_glow
+
+Date: (start date 01/february/202update dates)
+Author(s): (Alzeena A,Nithya R,S Riya Lakshmi)
+Contact Information: (alzeenaanu03@gmail.com,nithyaramesh0407@gmail.com,riyalakshmi2003@gmail.com)
+
+
+
+2. Project Overview
+Description: Briefly describe the project—its purpose, target audience (women), and the key problem it solves (mental health tracking, stress management, etc.).
+Objectives: What is the goal of the system? (E.g., to provide a comprehensive, easy-to-use tool for mental health management, especially for women).
+
+
+3. Features
+Mood Tracking: Users can log their daily mood and emotions.
+Journal Entries: Space for personal reflections.
+Meditation Suggestions: Personalized YouTube recommendations to help relax and reduce stress.
+Menstrual Cycle Tracking: Understand how hormonal changes affect mood.
+Chatbot: Provides mental health guidance and generates insights.
+
+
+4. System Architecture
+Tech Stack: List the technologies used Flutter for frontend, firebase for storing and authentication).
+User Interface Design: Briefly describe the layout and flow of the app (e.g., main dashboard, mood input, journal sections).
+
+usage insrtuctions:
+
+1.Login or Sign Up
+
+Open the app, and on the Login Page, enter your name and email to proceed.
+If you're not signed in already, you can tap the Sign Up button to create an account.
+2. Home Screen
+After logging in, you'll be directed to the Home Screen where you can access various features like:
+Mood Tracker: Select your current mood (Sad, Happy, Angry, Excited, Anxious, Neutral). The app will display corresponding emojis and quotes.
+Period Tracker: Track your menstrual cycle with a calendar. You can mark the start and end dates, and the app will calculate the next period.
+Meditation: Find and link to meditation videos on YouTube.
+Journal: Write, edit, and save journal entries to reflect on your day.
+
+3. Chatbot Interaction
+Access the Chatbot Page from the Mood Tracker page. The chatbot will provide personalized support based on your mood.
+You can type messages related to how you're feeling (e.g., sad, happy, anxious, etc.), and the bot will reply with helpful responses.
+
+4. Notifications & Reminders
+Set reminders in the app to receive notifications for your period and other important events. The app will notify you when your next period is coming up or remind you to track your mood.
+
+5. Data Management
+All your data, including journal entries and mood history, are stored securely using Firebase.
+You can view, edit, or delete entries at any time through the app.
+
+6. Profile Section
+Edit your profile information, including your name and email, from the Profile Page.
+
+7. Logout
+To log out of the app, navigate to your profile and tap the Logout button.
+
+
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
